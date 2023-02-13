@@ -5,3 +5,9 @@ body {
  background-color: lavender;
  color: darkblue;
 }
+
+label {
+    display: inline-block;
+    background-color: rgb(164, 164, 245);
+    margin: 0.5rem 0;
+}
