@@ -11,3 +11,7 @@ label {
     background-color: rgb(164, 164, 245);
     margin: 0.5rem 0;
 }
+
+textarea {
+    color: aqua;
+}
