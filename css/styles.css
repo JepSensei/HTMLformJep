@@ -27,7 +27,7 @@ fieldset {
     border-bottom: 3px solid #3b3b4f;
 }
 
-fieldset :last-of-type {
+fieldset:last-of-type {
     border-bottom: none;
 }
 
